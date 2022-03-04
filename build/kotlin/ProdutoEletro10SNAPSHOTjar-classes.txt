@@ -1,0 +1,1 @@
+C:\Users\User\IdeaProjects\ProdutoEletro\build\classes\kotlin\main\EletroMet.class;C:\Users\User\IdeaProjects\ProdutoEletro\build\classes\kotlin\main\MainKt.class;C:\Users\User\IdeaProjects\ProdutoEletro\build\classes\kotlin\main\ProdutoEletronico.class
